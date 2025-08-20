@@ -1,0 +1,20 @@
+-------------------------------
+
+--------- Help ----------------
+CC : current control (in red)
+MW : mouse wheel
+MP : mouse position
+RM: mouse right button
+LM: mouse left button
+CP : cursor position
+-------------------------------
+Space	: toggle pause
+D	: toggle debug mode
+Tab     : toggle simulation view
+MW	: Zoom
+Esc	: close window
+C	: reload config. file
+Arrows	: move simulation view
+Q	: switch to next control
+LM      : add wave at MP
+RM      :add Obstacle at MP
